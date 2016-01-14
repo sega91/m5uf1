@@ -66,3 +66,19 @@ operatiu s’ha de recompilar el codi font.
 
 • El programa resultant s’executa directament des del sistema operatiu.
 
+Algunes característiques dels llenguatges interpretats són:
+
+• El codi interpretat no és executat directament pel sistema operatiu, sinó que
+fa ús d’un intèrpret.
+
+• Cada sistema té el seu propi intèrpret.
+
+
+Els **llenguatges de quarta generació o llenguatges de propòsit específic**.
+Aporten un nivell molt alt d’abstracció en la programació, permetent
+desenvolupar aplicacions sofisticades en un espai curt de temps, molt inferior
+al necessari per als llenguatges de 3a generació.
+
+Els **llenguatges de cinquena generació** són llenguatges específics per al
+tractament de problemes relacionats amb la intel·ligència artificial i els
+sistemes experts.
