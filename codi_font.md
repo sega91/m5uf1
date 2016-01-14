@@ -20,8 +20,10 @@ Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca d
 a l’hora de codificar un programa.
 
 La **compilació** consta de dues fases:
+
 • La primera parteix del codi font a un llenguatge intermedi obtenint un
 programa equivalent amb un menor nivell d’abstracció que l’original i que
 no pot ser directament executat.
+
 • La segona fase tradueix el llenguatge intermedi a un llenguatge comprensible
 per la màquina.
