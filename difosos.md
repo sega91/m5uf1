@@ -1,5 +1,6 @@
 ###___1.5 Característiques dels llenguatges més difosos___
 
+**Programació modular**  
 En la majoria de llenguatges, els mòduls es tradueixen a:
 
 • Procediments: són subprogrames que duen a terme una tasca determinada
@@ -10,6 +11,8 @@ millorar la seva claredat.
 retornen un únic resultat o valor. S’utilitzen per crear operacions noves que
 no ofereix el llenguatge.
 
+
+**Característiques de la programació orientada a objectes**  
 L’**orientació a objectes** (en endavant, OO) és un paradigma de construcció
 de programes basat en una abstracció del món real.
 
@@ -18,6 +21,9 @@ Un **objecte** és una combinació de dades (anomenades atributs) i mètodes
 doncs, els programes són conjunts d’objectes que interactuen entre ells a
 través de missatges (crides a mètodes).
 
+
+
+**Encapsulació**  
  Les característiques que es poden atorgar a encapsulació són:
  
  • Públic: qualsevol classe pot accedir a qualsevol atribut o mètode declarat
