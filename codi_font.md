@@ -1,4 +1,4 @@
-##___1.2. Codi font, codi objecte i codi excutable: màquines virtuals___
+###___1.2. Codi font, codi objecte i codi excutable: màquines virtuals___
 
 Un cop s’ha acabat d’escriure el programa, el conjunt de fitxers de text
 resultants, on es troben les instruccions, es diu que contenen el **codi font**.
