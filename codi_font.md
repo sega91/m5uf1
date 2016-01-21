@@ -20,6 +20,8 @@ generant un arxiu executable
 Una **llibreria** és un col·lecció de codi predefinit que facilita la tasca del programador
 a l’hora de codificar un programa.
 
+
+**Màquina virtual**  
 La **compilació** consta de dues fases:
 
 • La primera parteix del codi font a un llenguatge intermedi obtenint un
