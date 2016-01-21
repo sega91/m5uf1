@@ -1,4 +1,4 @@
-1. Desenvolupament de programari (’software’)
+###1. Desenvolupament de programari (’software’)
 
 1.1. [Concepte de programa informàtic][1]
 
