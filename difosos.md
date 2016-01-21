@@ -1,4 +1,4 @@
-___Característiques dels llenguatges més difosos___
+###___1.5 Característiques dels llenguatges més difosos___
 
 En la majoria de llenguatges, els mòduls es tradueixen a:
 
