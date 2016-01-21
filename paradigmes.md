@@ -1,4 +1,4 @@
-___1.4 Paradigmes de programació___
+###___1.4 Paradigmes de programació___
 
 El **paradigma imperatiu/estructurat** deu el seu nom al paper dominant
 que exerceixen les sentències imperatives, és a dir aquelles que indiquen
