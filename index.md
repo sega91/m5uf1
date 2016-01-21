@@ -18,7 +18,7 @@
 
  [1]: https://github.com/sega91/m5uf1/blob/master/programa_informatic.md
  [2]: https://github.com/sega91/m5uf1/blob/master/programa_informatic.md
- [3]: https://github.com/sega91/m5uf1/edit/master/tipus.md
- [4]: https://github.com/sega91/m5uf1/edit/master/paradigmes.md
- [5]: https://github.com/sega91/m5uf1/edit/master/difosos.md
- [6]: https://github.com/sega91/m5uf1/edit/master/fases.md
+ [3]: https://github.com/sega91/m5uf1/blob/master/tipus.md
+ [4]: https://github.com/sega91/m5uf1/blob/master/paradigmes.md
+ [5]: https://github.com/sega91/m5uf1/blob/master/difosos.md
+ [6]: https://github.com/sega91/m5uf1/blob/master/fases.md
